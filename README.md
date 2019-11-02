@@ -12,9 +12,9 @@
 -------
 
 在这里下载：
-EXE打包版：https://github.com/manoil/Live2dtrail/blob/master/Live2D_Cubism%20无限试用.exe
-Bat版：
-(如果下载不下来有两种解决方案：1.将bat的内容复制后粘贴到空白的bat文件内2.将整个项目打包下载)
+`EXE`打包版：https://github.com/manoil/Live2dtrail/blob/master/Live2D_Cubism%20无限试用.exe<br>
+`Bat`版：https://github.com/manoil/Live2dtrail/blob/master/Live2DCubismTrail.bat<br>
+(如果下载不下来有两种解决方案：1.将bat的内容复制后粘贴到空白的bat文件内2.将整个项目打包下载)<br>
 
 使用方法：
 -------
