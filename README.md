@@ -1,4 +1,4 @@
-这是一个Live2D Cubism Editor的激活补丁
+这是一个Live2D Cubism Editor的激活补丁(已失效！！！)
 ====
 
 兼容性：
